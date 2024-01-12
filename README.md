@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/858OGY8elGAvuJnaKAWukeb7AVHF97tDf2FF0BiAASE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI0MDEx/NDEvc2NyZWVuc2hv/dHMvNTQ4Nzk4Mi9t/ZWRpYS8wZWQyOGI3/MzRhNDJkMDZhOTZj/YzU3ZjVkNDc4NjI1/Yy5naWY_cmVzaXpl/PTQwMHgzMDAmdmVy/dGljYWw9Y2VudGVy.gif)]
+[![MasterHead](https://imgs.search.brave.com/D0On37_V6oRV0da1XuPb_8CCvs42YgleACUL-dN6fEw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TkNSSGhxa1hySllB/QUFBai9wcm9ncmFt/bWVycy1nby1pbnRl/cm5ldC5naWY.gif)]
 <h1 align="center">Hi 👋, I'm Sumit Singh Rana</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
