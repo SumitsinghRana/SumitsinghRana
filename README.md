@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsinghrana&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsinghrana" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently Mastering **DSA**
 
 - 📫 How to reach me **sumitsrana007@gmail.com**
 
